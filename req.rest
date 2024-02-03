@@ -1,0 +1,4 @@
+POST https://petroapp-price.petro.gob.ve/price/
+Content-Type: application/json
+
+{"coins":[ "BTC"], "fiats": ["USD"]}
